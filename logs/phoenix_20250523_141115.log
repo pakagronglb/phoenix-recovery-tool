@@ -1,0 +1,14 @@
+2025-05-23 14:11:15,971 - INFO - Phoenix Data Recovery Tool Started
+2025-05-23 14:11:15,972 - INFO - Starting recovery process - Original: test_original, Backup: test_backup, Dry Run: True
+2025-05-23 14:11:15,972 - DEBUG - Checking file: test_original/important.txt
+2025-05-23 14:11:15,972 - DEBUG - Calculated hash for test_original/important.txt: 54efab3fad4983584a311a5ad206b4be8c7fee43f3af2e37a518133d497290ff
+2025-05-23 14:11:15,972 - DEBUG - Calculated hash for test_backup/important.txt: cc9a6b9894328d4e46de19ebb9f02d11746f77b92bda8e0463ad2c42b6bb0cdd
+2025-05-23 14:11:15,973 - INFO - Hash mismatch detected for test_original/important.txt
+2025-05-23 14:11:15,973 - INFO - [DRY RUN] Would restore test_original/important.txt from backup
+2025-05-23 14:11:15,978 - DEBUG - Checking file: test_original/docs/document.txt
+2025-05-23 14:11:15,979 - DEBUG - Calculated hash for test_original/docs/document.txt: 420bfc1458095736f253bb907383ca9654fcc1276ac6e8701ce37b3e8a51f052
+2025-05-23 14:11:15,979 - DEBUG - Calculated hash for test_backup/docs/document.txt: 6d48995422d7a07c1ae5898f19f5ca5897175304ee0e786edd39594992742470
+2025-05-23 14:11:15,979 - INFO - Hash mismatch detected for test_original/docs/document.txt
+2025-05-23 14:11:15,979 - INFO - [DRY RUN] Would restore test_original/docs/document.txt from backup
+2025-05-23 14:11:15,980 - INFO - Recovery completed. Files restored: 2
+2025-05-23 14:11:15,980 - INFO - Phoenix Data Recovery Tool Completed

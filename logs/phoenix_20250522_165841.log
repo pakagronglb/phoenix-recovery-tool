@@ -1,0 +1,2 @@
+2025-05-22 16:58:41,984 - INFO - Starting recovery process - Original: ./data, Backup: ./backup, Dry Run: False
+2025-05-22 16:58:41,984 - INFO - No corrupted files found or all files are up-to-date

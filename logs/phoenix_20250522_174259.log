@@ -1,0 +1,12 @@
+2025-05-22 17:42:59,848 - INFO - Phoenix Data Recovery Tool Started
+2025-05-22 17:42:59,848 - INFO - Starting recovery process - Original: test_original, Backup: test_backup, Dry Run: True
+2025-05-22 17:42:59,849 - INFO - Hash mismatch detected for test_original/file2.txt
+2025-05-22 17:42:59,849 - INFO - [DRY RUN] Would restore test_original/file2.txt from backup
+2025-05-22 17:42:59,854 - INFO - Hash mismatch detected for test_original/file1.txt
+2025-05-22 17:42:59,855 - INFO - [DRY RUN] Would restore test_original/file1.txt from backup
+2025-05-22 17:42:59,855 - INFO - Hash mismatch detected for test_original/test.txt
+2025-05-22 17:42:59,855 - INFO - [DRY RUN] Would restore test_original/test.txt from backup
+2025-05-22 17:42:59,856 - INFO - Hash mismatch detected for test_original/subdir/file3.txt
+2025-05-22 17:42:59,856 - INFO - [DRY RUN] Would restore test_original/subdir/file3.txt from backup
+2025-05-22 17:42:59,858 - INFO - Recovery completed. Files restored: 4
+2025-05-22 17:42:59,859 - INFO - Phoenix Data Recovery Tool Completed

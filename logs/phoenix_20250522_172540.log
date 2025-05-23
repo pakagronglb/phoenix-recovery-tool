@@ -1,0 +1,4 @@
+2025-05-22 17:25:40,649 - INFO - Phoenix Data Recovery Tool Started
+2025-05-22 17:25:40,649 - INFO - Starting recovery process - Original: /path/to/original, Backup: /path/to/backup, Dry Run: True
+2025-05-22 17:25:40,649 - INFO - No corrupted files found or all files are up-to-date
+2025-05-22 17:25:40,651 - INFO - Phoenix Data Recovery Tool Completed

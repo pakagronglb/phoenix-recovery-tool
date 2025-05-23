@@ -1,0 +1,8 @@
+README.md
+setup.py
+phoenix_recovery.egg-info/PKG-INFO
+phoenix_recovery.egg-info/SOURCES.txt
+phoenix_recovery.egg-info/dependency_links.txt
+phoenix_recovery.egg-info/entry_points.txt
+phoenix_recovery.egg-info/requires.txt
+phoenix_recovery.egg-info/top_level.txt
